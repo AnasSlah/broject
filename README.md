@@ -1,3 +1,3 @@
-# broject
+# project
 
-##project notes
+## project notes
